@@ -1,0 +1,80 @@
+{
+  "appName": "FlowArc",
+  "slogan": "Rendre la concentration plus efficace",
+  "features": {
+    "design": {
+      "title": "Design élégant",
+      "description": "Une interface propre et intuitive pour vous concentrer sur ce qui compte vraiment. Prend en charge les modes clair et sombre, s'adaptant parfaitement à vos habitudes d'utilisation."
+    },
+    "timeManagement": {
+      "title": "Gestion flexible du temps",
+      "description": "Basé sur la technique Pomodoro, avec des durées de travail et de pause personnalisables. Des rappels de pause intelligents vous aident à maintenir des conditions de travail optimales."
+    },
+    "dataTracking": {
+      "title": "Suivi des données",
+      "description": "Suivez votre temps de concentration et obtenez des informations sur votre productivité grâce à la visualisation des données. Prend en charge plusieurs dimensions statistiques pour vous aider à vous améliorer."
+    }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : janvier 2025",
+    "intro": "Merci d'utiliser FlowArc. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations personnelles.",
+    "infoCollection": {
+      "title": "Collecte d'informations",
+      "description": "Nous ne collectons que les informations nécessaires au fonctionnement de l'application :",
+      "items": [
+        "Paramètres de l'application : y compris les préférences comme la durée des Pomodoro et les temps de pause",
+        "Données des tâches : éléments à faire et enregistrements de réalisation que vous créez",
+        "Statistiques d'utilisation : temps de concentration et autres données statistiques"
+      ]
+    },
+    "dataStorage": {
+      "title": "Stockage et chiffrement des données",
+      "description": "Toutes les données sont stockées localement sur votre appareil et ne seront pas téléchargées sur un serveur. Pour protéger la sécurité de vos données :",
+      "items": [
+        "Toutes les données locales sont chiffrées en AES-256",
+        "Les clés de chiffrement sont stockées en toute sécurité dans le trousseau système",
+        "La synchronisation iCloud n'est actuellement pas prise en charge",
+        "Vous pouvez supprimer toutes les données à tout moment en supprimant l'application"
+      ]
+    },
+    "notification": {
+      "title": "Autorisations de notification",
+      "description": "Nous demandons des autorisations de notification pour vous rappeler lorsqu'une session Pomodoro se termine. Vous pouvez modifier cette autorisation dans les paramètres système à tout moment."
+    },
+    "dataSecurity": {
+      "title": "Sécurité des données",
+      "description": "Nous prenons les mesures techniques suivantes pour protéger vos données :",
+      "items": [
+        "Toutes les données sont stockées localement sur votre appareil",
+        "Utilisation du chiffrement AES-GCM standard de l'industrie",
+        "Aucune information d'identification personnelle n'est collectée",
+        "Aucune donnée n'est partagée avec des tiers",
+        "Aucun suivi utilisateur de quelque nature que ce soit"
+      ]
+    },
+    "dataDeletion": {
+      "title": "Suppression des données",
+      "description": "Vous pouvez supprimer vos données de la manière suivante :",
+      "items": [
+        "Supprimer des tâches ou enregistrements individuels dans l'application",
+        "La suppression de l'application supprimera automatiquement toutes les données locales",
+        "La réinitialisation des paramètres de l'application effacera toutes les préférences"
+      ]
+    },
+    "policyUpdate": {
+      "title": "Mises à jour de la politique",
+      "description": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. Les politiques mises à jour seront publiées sur cette page et notifiées lors de la mise à jour de l'application."
+    },
+    "contact": {
+      "title": "Nous contacter",
+      "description": "Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter à :",
+      "email": "support@badships.com"
+    }
+  },
+  "footer": {
+    "backToHome": "Retour à l'accueil",
+    "privacy": "Politique de confidentialité",
+    "contact": "Nous contacter"
+  }
+}

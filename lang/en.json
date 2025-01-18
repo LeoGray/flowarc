@@ -1,0 +1,80 @@
+{
+  "appName": "FlowArc",
+  "slogan": "Make Focus More Efficient",
+  "features": {
+    "design": {
+      "title": "Elegant Design",
+      "description": "Clean and intuitive interface design keeps your attention on what really matters. Supports both light and dark modes, perfectly adapting to your usage habits."
+    },
+    "timeManagement": {
+      "title": "Flexible Time Management",
+      "description": "Based on the Pomodoro technique, with customizable work and break durations. Smart break reminders help you maintain optimal working conditions."
+    },
+    "dataTracking": {
+      "title": "Data Tracking",
+      "description": "Track your focus time and gain insights into your productivity through data visualization. Supports multiple statistical dimensions to help you improve."
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: January 2025",
+    "intro": "Thank you for using FlowArc. This Privacy Policy explains how we collect, use, and protect your personal information.",
+    "infoCollection": {
+      "title": "Information Collection",
+      "description": "We only collect information necessary for app functionality:",
+      "items": [
+        "App settings: including preferences like Pomodoro duration and break time",
+        "Task data: to-do items and completion records you create",
+        "Usage statistics: focus time and other statistical data"
+      ]
+    },
+    "dataStorage": {
+      "title": "Data Storage & Encryption",
+      "description": "All data is stored locally on your device and will not be uploaded to any server. To protect your data security:",
+      "items": [
+        "All local data is encrypted using AES-256",
+        "Encryption keys are securely stored in the system keychain",
+        "iCloud sync is currently not supported",
+        "You can delete all data at any time by removing the app"
+      ]
+    },
+    "notification": {
+      "title": "Notification Permissions",
+      "description": "We request notification permissions to remind you when a Pomodoro session ends. You can modify this permission in system settings at any time."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "description": "We take the following technical measures to protect your data:",
+      "items": [
+        "All data is stored locally on your device",
+        "Uses industry-standard AES-GCM encryption",
+        "No personally identifiable information is collected",
+        "No data is shared with third parties",
+        "No user tracking of any kind"
+      ]
+    },
+    "dataDeletion": {
+      "title": "Data Deletion",
+      "description": "You can delete your data in the following ways:",
+      "items": [
+        "Delete individual tasks or records within the app",
+        "Uninstalling the app will automatically delete all local data",
+        "Resetting app settings will clear all preferences"
+      ]
+    },
+    "policyUpdate": {
+      "title": "Policy Updates",
+      "description": "We may update this privacy policy from time to time. Updated policies will be posted on this page and notified when the app is updated."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "If you have any questions about this privacy policy, please contact us at:",
+      "email": "support@badships.com"
+    }
+  },
+  "footer": {
+    "backToHome": "Back to Home",
+    "privacy": "Privacy Policy",
+    "contact": "Contact Us"
+  }
+}
