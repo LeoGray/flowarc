@@ -1,6 +1,6 @@
 class I18n {
   constructor() {
-    this.language = localStorage.getItem('language') || 'zh';
+    this.language = localStorage.getItem('language') || 'en';
     this.translations = {};
     this.init();
   }
